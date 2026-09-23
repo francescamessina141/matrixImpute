@@ -1,0 +1,10 @@
+Package: matrixImpute
+Type: Package
+Title: Matrix Missing Value Imputation
+Version: 0.1.0
+Authors@R: person("Francesca", "Messina", email = "francesca.messina141@edu.unito.it", role = c("aut", "cre"))
+Description: Provides functions for column-wise median imputation of missing values in numeric CSV matrices and for running the imputation workflow using Docker.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Config/roxygen2/version: 8.1.0
